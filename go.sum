@@ -1,0 +1,6 @@
+github.com/segmentio/asm v1.2.0 h1:9BQrFxC+YOHJlTlHGkTrFWf59nbL3XnCoFLTwDCI7ys=
+github.com/segmentio/asm v1.2.0/go.mod h1:BqMnlJP91P8d+4ibuonYZw9mfnzI9HfxselHZr5aAcs=
+go.withmatt.com/metrics v0.2.2-0.20250401231918-bac6aacecdde h1:6T3vs77lGn28ri80cCkw1S7+Ghc4wwWRhReUtVemwLM=
+go.withmatt.com/metrics v0.2.2-0.20250401231918-bac6aacecdde/go.mod h1:UcQWoQtd/XaG8G0uG7EdASihWoQ4boXBbzge7XrhXIM=
+golang.org/x/sys v0.31.0 h1:ioabZlmFYtWhL+TRYpcnNlLwhyxaM9kWTDEmfnprqik=
+golang.org/x/sys v0.31.0/go.mod h1:BJP2sWEmIv4KK5OTEluFJCKSidICx8ciO85XgH3Ak8k=
