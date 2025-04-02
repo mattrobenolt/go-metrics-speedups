@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"go.withmatt.com/metrics"
-	_ "go.withmatt.com/metrics/speedups"
+	_ "go.withmatt.com/metrics-speedups"
 )
 
 func TestImporting(t *testing.T) {

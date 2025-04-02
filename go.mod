@@ -1,4 +1,4 @@
-module go.withmatt.com/metrics/speedups
+module go.withmatt.com/metrics-speedups
 
 go 1.24.0
 

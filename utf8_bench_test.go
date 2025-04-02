@@ -5,7 +5,7 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"go.withmatt.com/metrics/speedups"
+	"go.withmatt.com/metrics-speedups"
 )
 
 func BenchmarkUTF8Valid(b *testing.B) {
@@ -28,5 +28,4 @@ func BenchmarkUTF8Valid(b *testing.B) {
 			}
 		})
 	}
-
 }
